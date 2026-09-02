@@ -1,4 +1,4 @@
-public class Main {
+public class day02 {
     public static void main (String[] args) {
 
         //Menampilkan biodata menggunakan println()
@@ -8,10 +8,10 @@ public class Main {
         System.out.println("NIM     : D0224039");
 
         //Menampilkan biodata menggunakan print()
-        System.out.println("Jurusan : ");
-        System.out.println("Teknik Informatika\n");
+        System.out.print("Jurusan : ");
+        System.out.print("Teknik Informatika\n");
 
         //menampilkan biodata menggunakan printf()
-        System.out.println("Umur     : %d tahun%n",19");
+        System.out.printf("Umur    : %d tahun%n", 19);
     }
 }
