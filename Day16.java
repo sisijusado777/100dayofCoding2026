@@ -10,7 +10,7 @@ public class day016{
         System.out.println("Operator Modulus");
 
         System.out.println("Angka1      : " + angka1);
-        System.out.println("Angka2       : " + angka2);
+        System.out.println("Angka2      : " + angka2);
         System.out.println("Sisa Bagi   : " + sisaBagi);
     }
 
