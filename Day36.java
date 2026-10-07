@@ -9,7 +9,7 @@ public class day036 {
         System.out.println("Bilangan : "+ bilangan);
 
         if(bilangan % 2 == 0) {
-            System.out.println("Status : Bilangan bulat");
+            System.out.println("Status : Bilangan genap");
         }else {
             System.out.println("Status : Bilangan ganjil");
         }
