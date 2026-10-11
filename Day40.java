@@ -37,7 +37,7 @@ public class day040 {
         int diskon = 0;
 
         if((km == 3 && durasi >= 3) || (total >= 1000000)) {
-            diskon = (int) (total * 0.25);
+            diskon = (int) (total * 0.15);
         }
 
         int totalBayar = total - diskon;
